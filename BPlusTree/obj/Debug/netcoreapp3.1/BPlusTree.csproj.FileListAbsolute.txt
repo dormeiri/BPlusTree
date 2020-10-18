@@ -1,0 +1,13 @@
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.exe
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.deps.json
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.runtimeconfig.json
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.runtimeconfig.dev.json
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.dll
+D:\MyProjects\BPlusTree\BPlusTree\bin\Debug\netcoreapp3.1\BPlusTree.pdb
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.csprojAssemblyReference.cache
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.csproj.CoreCompileInputs.cache
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.AssemblyInfoInputs.cache
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.AssemblyInfo.cs
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.dll
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.pdb
+D:\MyProjects\BPlusTree\BPlusTree\obj\Debug\netcoreapp3.1\BPlusTree.genruntimeconfig.cache
